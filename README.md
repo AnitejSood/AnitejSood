@@ -66,4 +66,3 @@ Curious, Optimistic, Indefatigable.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitejSood&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width=400px height=250px>
 </div>
 
-[![@rax's Holopin board](https://holopin.me/rax)](https://holopin.io/@rax)
