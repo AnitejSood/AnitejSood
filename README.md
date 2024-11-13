@@ -6,9 +6,9 @@
 <h1 align="left">Hello 👋, I'm Anitej C. Sood 🥷</h1>
 
 ## About Me
-High-achieving student with a passion for computers, always willing to learn and grow. Open for opportunities to develop experience and learn new things. I believe the secret of getting ahead is getting started.
+Driven and ambitious, I am a tech enthusiast with a passion for problem-solving and innovation. Always eager to take on new challenges, I thrive on learning and continuously pushing my skills to the next level. I believe the key to success lies in a curious mind and an unwavering commitment to growth.
 
-Curious, Optimistic, Indefatigable.
+Adaptable, Motivated, and Resilient.
 
 📫 **Reach me at:** anitejcsood@gmail.com
 
@@ -18,6 +18,12 @@ Curious, Optimistic, Indefatigable.
 <p align="left">
   <a href="https://www.linkedin.com/in/anitejcsood/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://anitej-sood-portfolio.netlify.app/" target="_blank">
+    <img src="https://www.svgrepo.com/show/19461/url-link.svg" alt="URL" height="30" width="40">
   </a>
 </p>
 
