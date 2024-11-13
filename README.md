@@ -21,7 +21,7 @@ Adaptable, Motivated, and Resilient.
   </a>
   
   <a href="https://anitej-sood-portfolio.netlify.app/" target="_blank">
-    <img src="https://www.svgrepo.com/show/528352/link-minimalistic-2.svg" alt="URL" height="30" width="40">
+    <img src="https://www.svgrepo.com/show/530495/link.svg" alt="URL" height="30" width="40">
   </a>
 </p>
 
