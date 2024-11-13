@@ -1,3 +1,4 @@
+![logo]({banner.png})
 <h1 align="left">Hello 👋, I'm Anitej C. Sood🥷</h1>
 
 <h2 align ="left"> 
